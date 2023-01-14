@@ -1,0 +1,9 @@
+{
+  "cyber_scans_helper":
+  {
+    "cyber_scans_db_path": "dependencies/db/cyber_scans.db",
+    "mocked_await_time": 1,
+    "bulk_size": 2,
+    "sleep_time": 5
+  }
+}

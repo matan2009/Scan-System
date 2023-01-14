@@ -1,0 +1,3 @@
+
+class CyberScansException(Exception):
+    pass

@@ -1,0 +1,2 @@
+2023-01-14 23:50:35,002 - INFO - got a request to get scan status - scan_id: 5
+2023-01-14 23:50:35,002 - INFO - status extracted from cache - scan_id: 5, status is: Complete
